@@ -22,7 +22,7 @@ echo -e "Loading..."
 APP="Alpine-Docker"
 var_disk="2"
 var_cpu="1"
-var_ram="1024"
+var_ram="512"
 var_os="alpine"
 var_version="3.18"
 variables
